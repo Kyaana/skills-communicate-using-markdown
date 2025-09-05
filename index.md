@@ -6,3 +6,5 @@
 ###### H6
 
 I've learned how headers work in Markdown
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
